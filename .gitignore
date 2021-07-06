@@ -1,0 +1,5 @@
+# 저장 x
+*.docx
+*.tmp
+*.zip
+koBert_multiclassification.py
